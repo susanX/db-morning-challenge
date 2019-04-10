@@ -36,7 +36,7 @@ Heroku has a service for hosting SQL databases - once you've create a heroku app
 **NOTE: We are just creating a heroku `app` so that we can use the heroku remote database - our code doesn't actually make a usable website**
 
 
-These should happen _after_ you have cloned and ran `npm i`
+These should happen _after_ you have cloned and run `npm i`
 
 ### Pick One:
 <details>
